@@ -1,19 +1,19 @@
 
-### Olá! Seja bem-vindo ao nosso querido Projeto.
+# Olá! Seja bem-vindo ao nosso querido Projeto.
 
-João
+### João;
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
-Gabriel
+### Gabriel;
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielCAlmd)
-Jadder
+### Jadder;
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
-Roger
+### Roger;
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
-Rick
+### Rick;
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjetoSurpresa_icons=true&theme=radical)
 
-###TEcnologia que nós usamos:
+# Tecnologia que nós usamos:
 
 
