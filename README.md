@@ -8,9 +8,9 @@
 ### Jadder Guilherme da Silva Colona;
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JadderC)
 ### Roger Silvério de Oliveira;
-[![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roger-S-197)
 ### Ricardo Leite de Lima;
-[![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rickkleite)
 
 
 ![ProjetoSurpresa GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjetoSurpresa&show_icons=true&theme=radical)
