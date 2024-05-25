@@ -20,5 +20,15 @@
 <div style="display: inline_block"><br/>
  <img align="center alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></div><br/>
 
- Apaixonados por tecnologia, buscando desenvolver um futuro melhor.
+ # Links diretos para os repositorios:
+
+### Documentação do Projeto:
+ https://github.com/ProjetoSurpresa/Projeto2024-Sala28CC/blob/main/Documenta%C3%A7%C3%A3o%20do%20Projeto.pdf
+
+### Aplicação do Projeto:
+ https://github.com/ProjetoSurpresa/Projeto2024-Sala28CC/blob/main/pilhaFIlaArvore.py
+
+
+
+ ### Apaixonados por tecnologia, buscando desenvolver um futuro melhor.
  
