@@ -1,5 +1,5 @@
 
-# Olá! Seja bem-vindo ao nosso querido Projeto.
+# Olá! Seja bem-vindo ao projeto "Gerenciamento e Informe de Estoque para Padarias".
 
 ### João Carlos Duarte Ferreira;
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Orthorus)
@@ -9,8 +9,7 @@
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JadderC)
 ### Roger Silvério de Oliveira;
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roger-S-197)
-### Ricardo Leite de Lima;
-[![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rickkleite)
+
 
 
 ![ProjetoSurpresa GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjetoSurpresa&show_icons=true&theme=radical)
