@@ -1,5 +1,5 @@
 
-# Olá! Seja bem-vindo ao projeto "Gerenciamento e Informe de Estoque para Padarias".
+# Olá! Seja bem-vindo ao nosso Git.
 
 ### João Carlos Duarte Ferreira;
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Orthorus)
